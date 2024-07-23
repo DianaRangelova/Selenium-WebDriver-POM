@@ -13,8 +13,8 @@ namespace StudentsRegistryPOM.Tests
     [OneTimeSetUp]
     public void Setup()
     {
-            var chromeDriverPath = @"C:\Program Files\ChromeDriver\chromedriver.exe"; // Replace with the actual path
-            this.driver = new ChromeDriver(chromeDriverPath);
+            driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:82/ ");
         }
 
     [OneTimeTearDown]

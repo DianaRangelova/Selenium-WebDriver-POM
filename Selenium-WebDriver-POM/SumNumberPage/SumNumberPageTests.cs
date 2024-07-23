@@ -7,15 +7,15 @@ namespace SumNumberPage
     public class SumNumberPageTests
     {
         private ChromeDriver driver;
-        //private SumNumberPage sumpage;
+        private SumNumberPage sumpage;
 
         [SetUp]
         public void Setup()
         {
-            var chromeDriverPath = @"C:\Program Files\ChromeDriver\chromedriver.exe"; // Replace with the actual path
-            driver = new ChromeDriver(chromeDriverPath);
-            //sumpage = new SumNumberPage(driver);
-            //sumpage.OpenPage();
+            driver = new ChromeDriver ();
+            driver.Navigate().GoToUrl("https://fe5c1260-8638-4757-b08c-3882eb82e7d6-00-3pfhxp34ym0xb.spock.replit.dev/");
+            sumpage = new SumNumberPage(driver);
+            sumpage.OpenPage();
         }
 
         [TearDown]

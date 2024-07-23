@@ -18,15 +18,15 @@ namespace SumNumberPage
             "https://91981363-bfd4-4e4d-8872-e4c073bbf03e-00-o3fpq10yr45o.janeway.replit.dev/";
 
         public IWebElement FieldNum1 => 
-            driver.FindElement(By.CssSelector("input#number1"));
+            driver.FindElement(By.Id("number1"));
         public IWebElement FieldNum2 => 
-            driver.FindElement(By.CssSelector("input#number2"));
+            driver.FindElement(By.Id("number2"));
         public IWebElement ButtonCalc => 
-            driver.FindElement(By.CssSelector("#calcButton"));
+            driver.FindElement(By.Id("calcButton"));
         public IWebElement ButtonReset => 
-            driver.FindElement(By.CssSelector("#resetButton"));
+            driver.FindElement(By.Id("resetButton"));
         public IWebElement ElementResult => 
-            driver.FindElement(By.CssSelector("#result"));
+            driver.FindElement(By.Id("result"));
 
         public void OpenPage()
         {
