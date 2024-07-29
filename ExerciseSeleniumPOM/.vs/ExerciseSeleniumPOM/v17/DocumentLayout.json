@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\tests\\checkoutpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\tests\\checkoutpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\tests\\inventorypagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\tests\\inventorypagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\tests\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\tests\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|c:\\users\\pc\\desktop\\exerciseseleniumpom\\swaglabspom\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778D9E3-C7DD-4890-B981-19EC4242C295}|SwagLabsPOM\\SwagLabsPOM.csproj|solutionrelative:swaglabspom\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Pages\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Pages\\CheckoutPage.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:10:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\CheckoutPageTests.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Tests\\CheckoutPageTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\CheckoutPageTests.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Tests\\CheckoutPageTests.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:10:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\CartPage.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Pages\\CartPage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:39:14.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\InventoryPageTests.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Tests\\InventoryPageTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\InventoryPageTests.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Tests\\InventoryPageTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:35:57.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Pages\\InventoryPage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Pages\\InventoryPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:33:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\BasePage.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:23:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Tests\\BaseTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T11:29:41.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\LoginPageTests.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Tests\\LoginPageTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Tests\\LoginPageTests.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Tests\\LoginPageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:28:03.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SwagLabsPOM\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ExerciseSeleniumPOM\\SwagLabsPOM\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "SwagLabsPOM\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:08:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
